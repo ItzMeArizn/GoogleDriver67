@@ -1,6 +1,8 @@
 {
-  "name": "Arcade Hub",
+  "name": "Google Driver",
   "description": "A collection of unblocked games for quick fun.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [],
+  "C7": [],
+  "aq": []
 }
